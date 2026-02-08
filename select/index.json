@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SHOCK!",
+  "base_artist": "Ayase",
+  "createdAt": "2026-02-08T04:23:16.203795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Shock of Kontakt",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": true,
+      "path": "select/01_The_Shock_of_Kontakt_Amanda_Palmer,_Edward_Ka-Spel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Shock of Kontakt",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/02_The_Shock_of_Kontakt_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Electric Shock",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/03_Electric_Shock_f(x).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Soft Shock",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/04_Soft_Shock_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Soft Shock (Acoustic Version)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/05_Soft_Shock_(Acoustic_Version)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wire Shock",
+      "artist": "Brian Eno",
+      "has_synced": false,
+      "path": "select/06_Wire_Shock_Brian_Eno.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jumbo (Future Shock Worlds Apart Vox)",
+      "artist": "Underworld",
+      "has_synced": false,
+      "path": "select/07_Jumbo_(Future_Shock_Worlds_Apart_Vox)_Underworld.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Shock of the Lightning (Primal Scream Remix)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/08_The_Shock_of_the_Lightning_(Primal_Scream_Remix)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "01 - The Shock Of The Lightning (Primal Scream Remix)",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/09_01_-_The_Shock_Of_The_Lightning_(Primal_Scream_Remix)_Oasis.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Shock Of The Lightning",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/10_The_Shock_Of_The_Lightning_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Shock of the Lightning",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/11_The_Shock_of_the_Lightning_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Shock of the Lightning (The Jagz Kooner Remix)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/12_The_Shock_of_the_Lightning_(The_Jagz_Kooner_Remix)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Shock of the Lightning [The Jagz Kooner Remix]",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/13_The_Shock_of_the_Lightning_[The_Jagz_Kooner_Remix]_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Right There (Desi Hits! Culture Shock Remix)",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/14_Right_There_(Desi_Hits!_Culture_Shock_Remix)_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Beat It / State of Shock (Immortal version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/15_Beat_It___State_of_Shock_(Immortal_version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHOCK!",
+      "artist": "Ayase",
+      "has_synced": false,
+      "path": "select/pl_01_SHOCK!_Ayase.txt"
+    }
+  ]
+}
